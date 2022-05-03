@@ -4,9 +4,18 @@ I'm a Software Engineer at [Pleo](https://www.pleo.io/)
 
 
 ## Background
-- Ex-[N26](https://n26.com/)
+- Ex-[N26](https://n26.com/) 
 - Ex-[Parser](https://parserdigital.com/)
 - Ex-[Globant](https://www.globant.com/)
+
+</br>
+<details><summary>Resume</summary>
+  ...
+  under construction
+  ...
+</details>
+
+---
 
 <details>
 <summary>
@@ -14,7 +23,7 @@ I'm a Software Engineer at [Pleo](https://www.pleo.io/)
 </summary>
   
 ## What I do
-I do high quality backend software. I do architectural software design. I do bbq 
+I do architectural software design. I do high quality backend software. I do bbqs.
 
 ## Stack
 - JVM Languages (Java, Kotlin)
@@ -29,11 +38,11 @@ I do high quality backend software. I do architectural software design. I do bbq
 ## Interested in
 - Backend related topics
 - Non blocking architectures
-- [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+- Concurrency at thread and multi instance level
 - Payments & Fintech in general
   
 ## Who am I?
-I am a father. I am from Argentina. My pronouns are he,his.
+I am a father. I am from Argentina. I live in Barcelona, Spain. My pronouns are he,his.
 
 
 ## Languages 🌐
@@ -48,7 +57,7 @@ I am a father. I am from Argentina. My pronouns are he,his.
 
 ---
  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/matiasvigil)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/matiasvigil/en)
 
 
 <!--

@@ -1,9 +1,10 @@
 # Hi, I'm Matias Vigil 👋
 
-I'm a Software Engineer at [Pleo](https://www.pleo.io/)
+I'm a Sr Software Engineer at [Deblock](https://deblock.com/)
 
 
 ## Background
+- Ex-[Pleo](https://www.pleo.io/)
 - Ex-[N26](https://n26.com/) 
 - Ex-[Parser](https://parserdigital.com/)
 - Ex-[Globant](https://www.globant.com/)
